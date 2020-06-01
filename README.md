@@ -1,0 +1,2 @@
+# stardust
+go module test
